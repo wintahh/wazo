@@ -39,8 +39,8 @@ body {
 .title {
     display: inline-flex;
     align-items: baseline;
-    gap: 0.6rem;
-    margin-bottom: 2rem;
+    gap: 1.2rem;
+    margin-bottom: 4rem;
 }
 
 .icon {
@@ -71,6 +71,7 @@ body {
     font-weight: 500;
 
 }
+
 
 
 
