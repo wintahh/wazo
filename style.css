@@ -41,7 +41,6 @@ body {
     align-items: center;
     justify-content: center;
     gap: 1.2rem;
-    margin-bottom: 4rem;
 }
 
 .icon {
@@ -72,6 +71,7 @@ body {
     font-weight: 500;
 
 }
+
 
 
 
