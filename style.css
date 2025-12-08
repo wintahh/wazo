@@ -44,7 +44,7 @@ body {
 }
 
 .icon {
-    width: 150;
+    width: 150px;
     border-radius: 50%;
 }
 
@@ -71,4 +71,5 @@ body {
     font-weight: 500;
 
 }
+
 
