@@ -44,8 +44,8 @@ body {
 }
 
 .icon {
-    font-size: 3.5rem; 
-    font-weight: 700;
+    width: 150;
+    border-radius: 50%;
 }
 
 .name {
@@ -71,3 +71,4 @@ body {
     font-weight: 500;
 
 }
+
