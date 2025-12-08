@@ -43,7 +43,7 @@ body {
     margin-bottom: 2rem;
 }
 
-.dev-icon {
+.icon {
     font-size: 3.5rem; 
     font-weight: 700;
 }
@@ -69,4 +69,5 @@ body {
     backdrop-filter: blur(10px);
     font-size: 0.9rem;
     font-weight: 500;
+
 }
