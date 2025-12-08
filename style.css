@@ -38,7 +38,8 @@ body {
 
 .title {
     display: inline-flex;
-    align-items: baseline;
+    align-items: center;
+    justify-content: center;
     gap: 1.2rem;
     margin-bottom: 4rem;
 }
@@ -71,6 +72,7 @@ body {
     font-weight: 500;
 
 }
+
 
 
 
